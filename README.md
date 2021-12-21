@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yojoflo
-- 👀 I’m interested in place-based, diverse, community-led, entrepreneurship & commons governance
-- 🌱 I’m currently learning about Te Ao Maori, sovereign digtial identity, collaboration, decision making
-- 💞️ I’m looking to collaborate on community-based, domain specific learning, proposals which democratise allocation of resources and emergent order including rituals, norms, values, principles to achieve consensus 
+- 👀 I’m interested in community-led entrepreneurship, digital capability & commons governance which deliver positive returns for people and planet
+- 🌱 I’m currently learning about Te Ao Maori, sovereign digtial identity, collaboration, auditing, decision making
+- 💞️ I’m looking to collaborate on community-based, domain specific collaboration, proposals which democratise allocation of resources and support emergent, contextual order including rituals, norms, values, principles to achieve consensus 
 - 📫 How to reach me... https://twitter.com/yojoflo
 
 <!---
